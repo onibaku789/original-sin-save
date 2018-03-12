@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <save>
-    <header version="2" time="1520418700" />
+    <header version="2" time="1520878489" />
     <version major="2" minor="0" revision="0" build="0" />
     <region id="Config">
         <node id="root">
@@ -99,12 +99,12 @@
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="RefreshRateDenominator" type="22" />
                     <attribute id="Type" value="0" type="5" />
-                    <attribute id="Value" value="1271900" type="4" />
+                    <attribute id="Value" value="1000" type="4" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="RefreshRateNumerator" type="22" />
                     <attribute id="Type" value="0" type="5" />
-                    <attribute id="Value" value="76300000" type="4" />
+                    <attribute id="Value" value="60000" type="4" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="RenderDeferred" type="22" />
@@ -124,12 +124,12 @@
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="ScreenHeight" type="22" />
                     <attribute id="Type" value="0" type="5" />
-                    <attribute id="Value" value="768" type="4" />
+                    <attribute id="Value" value="1080" type="4" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="ScreenWidth" type="22" />
                     <attribute id="Type" value="0" type="5" />
-                    <attribute id="Value" value="1366" type="4" />
+                    <attribute id="Value" value="1920" type="4" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="ShadowQuality" type="22" />
